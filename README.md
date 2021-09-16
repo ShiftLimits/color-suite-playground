@@ -4,14 +4,14 @@ An example website with a structured Color Suite palette for reference.
 
 ## What is this?
 
-This is an example website to demonstrate the functionality of Color Suite. It is built with Vite, Vue, and Tailwind CSS. See [Color Suite](https://www.github.com/shiftlimits/tailwindcss-color-suite) for more detailed usage information.
+This is an example website to demonstrate the functionality of Color Suite. It is built with Vite, Vue, and Tailwind CSS. See [Color Suite](https://www.github.com/ShiftLimits/tailwindcss-color-suite) for more detailed usage information.
 
 ## Installation
 
 Clone this repository:
 
 ```bash
-$ git clone https://www.github.com/shiftlimits/color-suite-playground
+$ git clone https://www.github.com/ShiftLimits/color-suite-playground
 $ cd color-suite-playground
 ```
 
