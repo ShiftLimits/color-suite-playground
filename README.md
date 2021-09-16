@@ -31,4 +31,4 @@ Open http://localhost:3000 to view the example website. Use the `Color` button o
 
 ## License
 
-Gridlines for Tailwind CSS is [MIT](LICENSE) licensed.
+Color Suite is [MIT](LICENSE) licensed.
