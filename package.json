@@ -1,0 +1,27 @@
+{
+ "name": "color-suite-playground",
+ "version": "0.0.1",
+ "author": "Jeff Schofield <jeff@jeffschofield.com>",
+ "license": "MIT",
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
+ },
+ "devDependencies": {
+  "@vitejs/plugin-vue": "^1.6.2",
+  "@vue/compiler-sfc": "^3.2.11",
+  "@vuedx/typecheck": "^0.7.4",
+  "@vuedx/typescript-plugin-vue": "^0.7.4",
+  "autoprefixer": "^10.3.4",
+  "postcss": "^8.3.6",
+  "tailwindcss": "^2.2.15",
+  "tailwindcss-color-suite": "^0.3.0",
+  "tailwindcss-gridlines": "^0.2.0",
+  "vite": "^2.5.7",
+  "vite-plugin-svg-icons": "^1.0.4"
+ },
+ "dependencies": {
+  "vue": "^3.2.11"
+ }
+}
