@@ -19,7 +19,7 @@
 
 				<!-- Design Element -->
 				<div class="h-full">
-					<svg viewBox="0 0 1 2" preserveAspectRatio="none" class="h-full">
+					<svg viewBox="0 0 1 2" preserveAspectRatio="none" class="h-full w-1">
 						<linearGradient id="grad" x1="0" x2="0" y1="0" y2="0.75">
 							<stop offset="0%" stop-color="currentColor" class="text-primary-700" />
 							<stop offset="100%" stop-color="currentColor" class="text-primary-750" />
@@ -34,7 +34,7 @@
 
 			<!-- Design Element -->
 			<div class="h-full">
-				<svg viewBox="0 0 1 2" preserveAspectRatio="none" class="h-full">
+				<svg viewBox="0 0 1 2" preserveAspectRatio="none" class="h-full w-1">
 					<path d="M1,0 L1,2 L0,2 L0,1.75 Z" class="fill-primary-750" />
 				</svg>
 			</div>
@@ -47,7 +47,7 @@
 						<button class="group"><svg-icon name="mail" class="h-1 fill-neutral-300 group-hover:fill-neutral-50" /></button>
 					</div>
 				</div>
-				<div class="h-full"><svg viewBox="0 0 1 1" class="h-full rounded-1/4 bg-primary-650" /></div>
+				<div class="h-full"><svg viewBox="0 0 1 1" class="h-full w-1-1/2 rounded-1/4 bg-primary-650" /></div>
 			</div>
 		</div>
 		<div class="flex-grow flex">
