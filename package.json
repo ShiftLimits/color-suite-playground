@@ -16,7 +16,7 @@
   "autoprefixer": "^10.3.4",
   "postcss": "^8.3.6",
   "tailwindcss": "^2.2.15",
-  "tailwindcss-color-suite": "^0.3.0",
+  "tailwindcss-color-suite": "^0.3.1",
   "tailwindcss-gridlines": "^0.2.0",
   "vite": "^2.5.7",
   "vite-plugin-svg-icons": "^1.0.4"
