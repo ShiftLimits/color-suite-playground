@@ -1,14 +1,12 @@
-const { configureColors } = require('tailwindcss-color-suite')
+const { tailwindColors } = require('tailwindcss-color-suite')
 
 module.exports = {
-  purge: [
+  content: [
 		'./index.html',
 		'./src/**/*.{js,ts,vue}',
 	],
-  mode: 'jit',
-  darkMode: false, // or 'media' or 'class'
   theme: {
-    colors: configureColors(),
+    colors: tailwindColors(require('./colors.config')),
     extend: {
 			fill: (theme) => theme('colors')
 		},
