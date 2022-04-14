@@ -1,13 +1,14 @@
 import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-import { colorSuitePlugin } from 'tailwindcss-color-suite'
-import viteSvgIcons from 'vite-plugin-svg-icons'
 import { resolve } from 'path'
+
+import vuePlugin from '@vitejs/plugin-vue'
+import { createSvgIconsPlugin } from 'vite-plugin-svg-icons'
+import { colorSuitePlugin } from 'tailwindcss-color-suite'
 
 export default defineConfig({
   plugins: [
-    vue(),
-    viteSvgIcons({
+    vuePlugin(),
+    createSvgIconsPlugin({
       iconDirs: [resolve(process.cwd(), 'src/assets/icons')]
     }),
     colorSuitePlugin()
