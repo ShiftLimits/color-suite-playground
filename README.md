@@ -27,7 +27,7 @@ Run the dev server:
 $ yarn dev
 ```
 
-Open http://localhost:3000 to view the example website. Use the `Color` button on the left or `CTRL+SHIFT+F` to open the Color Suite panel.
+Open http://localhost:5173 to view the example website. Use the `Color` button on the left or `CTRL+SHIFT+F` to open the Color Suite panel.
 
 ## License
 
