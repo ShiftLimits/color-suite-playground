@@ -18,13 +18,13 @@ $ cd color-suite-playground
 Install with your package manager of choice:
 
 ```bash
-$ yarn install
+$ pnpm install
 ```
 
 Run the dev server:
 
 ```bash
-$ yarn dev
+$ pnpm dev
 ```
 
 Open http://localhost:5173 to view the example website. Use the `Color` button on the left or `CTRL+SHIFT+F` to open the Color Suite panel.
